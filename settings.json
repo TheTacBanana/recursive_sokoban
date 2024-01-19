@@ -1,0 +1,5 @@
+{
+    "resolution": [1000,1000],
+    "ifs": 0.7,
+    "maxdrawdepth": 5
+}
